@@ -1,0 +1,27 @@
+{
+  "name": "abacus-report",
+  "title": "Abacus Report",
+  "url": "www.pos4.me",
+  "version": "1.0.0",
+  "description": "Abacus POS Report application",
+  "copyright": "pos4.me",
+  "author": "POS4ME",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-material": "^1.1.0-rc.5",
+    "angular-ui-router": "0.2.15",
+    "grunt": "^1.0.1",
+    "grunt-angular-templates": "^1.0.4",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0",
+    "jquery": "^3.0.0",
+    "jquery-ui": "^1.10.5"
+  }
+}
